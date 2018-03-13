@@ -5,4 +5,5 @@ var text() = write();
 function brand(){
 textSize(6)          
 write(20,20,20)
+console.log("use html for logo my boy");
 };
